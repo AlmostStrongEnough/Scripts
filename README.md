@@ -1,1 +1,1 @@
-# Scripts--PAID-
+# Scripts-PAID-
