@@ -7,14 +7,14 @@ game.Players.LocalPlayer:Kick()
 end
 
 local ImNotDumb = {
-    1151614368,  -- AlmostStrongEnough
-    2381443092, -- dizrs
-    1601189242, -- SSJ_AV
-    234068264, -- skxllbound
-    1255691753, --
+    1151614368,  -- AlmostStrongEnough (owner)
+    2381443092, -- dizrs (beautiful chad)
+    1601189242, -- SSJ_AV (dick sucker)
+    234068264, -- skxllbound (close friend)
+    109766824, -- Kingstone216 (customer)
 }
 local Blacklist = {
-
+    633527, -- SnakeWorl (the human dogshit)
 }
 if not table.find(ImNotDumb, game:GetService("Players").LocalPlayer.UserId) then
     game.Players.LocalPlayer.Backpack.ServerTraits.Input:FireServer({"md"}, CFrame.new())
